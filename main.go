@@ -2,10 +2,15 @@
 
 package main
 
-import "fmt"
+import (
+	"fmt"
+
+	"github.com/hikarukin/incompat/incompatversion"
+)
 
 var Version string = "test"
 
 func main() {
 	fmt.Printf("Version: %s", Version)
+	fmt.Printf("Incompat Version: %s", incompatversion.Version)
 }
