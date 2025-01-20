@@ -1,3 +1,3 @@
 # incompat
 
-Licensed under Business Source License 1.1
+Licensed under SSPL-1.0

@@ -1,92 +1,138 @@
-License text copyright (c) 2020 MariaDB Corporation Ab, All Rights Reserved.
-"Business Source License" is a trademark of MariaDB Corporation Ab.
+Server Side Public License, v 1
 
-Parameters
+January 16, 2019
 
-Licensor:             HashiCorp, Inc.
-Licensed Work:        Terraform Version 1.6.0 or later. The Licensed Work is (c) 2024
-                      HashiCorp, Inc.
-Additional Use Grant: You may make production use of the Licensed Work, provided
-                      Your use does not include offering the Licensed Work to third
-                      parties on a hosted or embedded basis in order to compete with 
-                      HashiCorp's paid version(s) of the Licensed Work. For purposes 
-                      of this license:
+This version of the Server Side Public License (the "License") applies to
+the program or other work to which it is attached (the "Work").  Throughout
+this License, the copyright holder(s) is referred to as "Licensor".
 
-                      A "competitive offering" is a Product that is offered to third
-                      parties on a paid basis, including through paid support 
-                      arrangements, that significantly overlaps with the capabilities 
-                      of HashiCorp's paid version(s) of the Licensed Work. If Your 
-                      Product is not a competitive offering when You first make it 
-                      generally available, it will not become a competitive offering
-                      later due to HashiCorp releasing a new version of the Licensed 
-                      Work with additional capabilities. In addition, Products that 
-                      are not provided on a paid basis are not competitive.
+1. Definitions
 
-                      "Product" means software that is offered to end users to manage 
-                      in their own environments or offered as a service on a hosted 
-                      basis.
+"Copyleft Condition" means a requirement stated in Section 13 of this License.
 
-                      "Embedded" means including the source code or executable code 
-                      from the Licensed Work in a competitive offering. "Embedded" 
-                      also means packaging the competitive offering in such a way 
-                      that the Licensed Work must be accessed or downloaded for the 
-                      competitive offering to operate.
+"Copyrightable Work" means any work subject to copyright under Applicable
+Law. A work results from a modification of a Copyrightable Work, or from
+the combining of a Copyrightable Work with other works, if it is
+prepared such that the applicable copyright holder(s) of the
+Copyrightable Work would have a basis under Applicable Law (including,
+where applicable, under doctrines of partial or entire compilation or
+derivative works) for asserting rights in the resulting work. However,
+no work is considered a "modification" or "combination" for purposes of
+this License merely because it was designed to be used with the Work or
+because it enables interoperability with the Work (e.g., using or
+enabling an API, plugin, or module for the Work).
 
-                      Hosting or using the Licensed Work(s) for internal purposes 
-                      within an organization is not considered a competitive 
-                      offering. HashiCorp considers your organization to include all 
-                      of your affiliates under common control.
+"Service" means making the functionality of the Work (or any modified
+version of the Work) available to third parties as a service.
 
-                      For binding interpretive guidance on using HashiCorp products 
-                      under the Business Source License, please visit our FAQ. 
-                      (https://www.hashicorp.com/license-faq)
-Change Date:          Four years from the date the Licensed Work is published.
-Change License:       MPL 2.0
+"User" means an individual or entity exercising rights under this
+License to the Work or to a modified version of the Work.
 
-For information about alternative licensing arrangements for the Licensed Work,
-please contact licensing@hashicorp.com.
+"Applicable Law" means any law, regulation, or similar government mandate
+that applies to you and/or to the Work, now or in the future.
 
-Notice
+2. Grant of Copyright License
 
-Business Source License 1.1
+Subject to the terms and conditions of this License, for the duration of
+copyright in the Work, Licensor hereby grants you a non-exclusive,
+worldwide, royalty-free copyright license to reproduce the Work, prepare
+modifications and/or combinations of the Work, publicly display and
+perform the Work, and distribute and sublicense the Work and any
+modifications and/or combinations.
 
-Terms
+3. Grant of Patent License
 
-The Licensor hereby grants you the right to copy, modify, create derivative
-works, redistribute, and make non-production use of the Licensed Work. The
-Licensor may make an Additional Use Grant, above, permitting limited production use.
+Subject to the terms and conditions of this License, for the duration of
+any patent claims licensable by Licensor that would be infringed by
+making, using, or selling the Work, Licensor hereby grants you a
+non-exclusive, worldwide, royalty-free patent license to make, have
+made, use, sell, offer for sale, import, and otherwise transfer the Work
+and any modifications and/or combinations. The foregoing license applies
+only to the extent that such patent claims would be infringed by the
+Work itself or by its modifications and/or combinations.
 
-Effective on the Change Date, or the fourth anniversary of the first publicly
-available distribution of a specific version of the Licensed Work under this
-License, whichever comes first, the Licensor hereby grants you rights under
-the terms of the Change License, and the rights granted in the paragraph
-above terminate.
+4. Limitations
 
-If your use of the Licensed Work does not comply with the requirements
-currently in effect as described in this License, you must purchase a
-commercial license from the Licensor, its affiliated entities, or authorized
-resellers, or you must refrain from using the Licensed Work.
+Subject to the exceptions set forth in Section 13, you may not exercise
+the rights granted under this License to publicly distribute or publicly
+perform the Work or a modified version of the Work if you have not
+complied with the Copyleft Condition in Section 13.
 
-All copies of the original and modified Licensed Work, and derivative works
-of the Licensed Work, are subject to this License. This License applies
-separately for each version of the Licensed Work and the Change Date may vary
-for each version of the Licensed Work released by Licensor.
+5. Redistribution
 
-You must conspicuously display this License on each original or modified copy
-of the Licensed Work. If you receive the Licensed Work in original or
-modified form from a third party, the terms and conditions set forth in this
-License apply to your use of that work.
+You may distribute a copy of the Work or a modified version of the Work
+in any medium, provided that you retain the above copyright notice(s),
+this License, and all license notices and other disclaimers.
 
-Any use of the Licensed Work in violation of this License will automatically
-terminate your rights under this License for the current and all other
-versions of the Licensed Work.
+6. No Surrender of Others' Freedom
 
-This License does not grant you any right in any trademark or logo of
-Licensor or its affiliates (provided that you may use a trademark or logo of
-Licensor as expressly required by this License).
+If conditions are imposed on you (whether by court order, agreement or
+otherwise) that contradict the conditions of this License, they do not
+excuse you from the conditions of this License. If you cannot distribute
+so as to satisfy simultaneously your obligations under this License and
+any other pertinent obligations, then as a consequence you may not
+distribute the Work at all.
 
-TO THE EXTENT PERMITTED BY APPLICABLE LAW, THE LICENSED WORK IS PROVIDED ON
-AN "AS IS" BASIS. LICENSOR HEREBY DISCLAIMS ALL WARRANTIES AND CONDITIONS,
-EXPRESS OR IMPLIED, INCLUDING (WITHOUT LIMITATION) WARRANTIES OF
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NON-INFRINGEMENT, AND
-TITLE.
+7. Trademarks
+
+Nothing in this License grants permission to use any trademark, service
+mark, or trade name of Licensor. You may indicate that a modified version
+of the Work is modified by you and not by Licensor.
+
+8. Termination
+
+If you violate any of the terms and conditions in this License, then any
+rights granted to you by this License may be terminated. You may retain
+a copy of the Work thereafter only if you have not distributed or
+otherwise made the Work available to the public in breach of this License.
+
+9. Disclaimer of Warranty
+
+THE WORK IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER
+EXPRESSED OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN
+NO EVENT SHALL LICENSOR BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+FROM, OUT OF OR IN CONNECTION WITH THE WORK OR THE USE OR OTHER
+DEALINGS IN THE WORK.
+
+10. Limitation of Liability
+
+TO THE EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT WILL LICENSOR BE
+LIABLE TO YOU ON ANY LEGAL THEORY FOR ANY SPECIAL, INCIDENTAL,
+CONSEQUENTIAL, PUNITIVE OR EXEMPLARY DAMAGES ARISING OUT OF THIS LICENSE
+OR THE USE OF THE WORK, EVEN IF LICENSOR HAS BEEN ADVISED OF THE
+POSSIBILITY OF SUCH DAMAGES.
+
+11. Acceptance
+
+No act other than your compliance with this License (including its
+Copyleft Condition in Section 13) constitutes acceptance of this
+License. You expressly waive any right to acceptance of this License by
+means of any electronic contracting mechanism or otherwise.
+
+12. General
+
+If any provision of this License is invalid or unenforceable under
+applicable law, it shall not affect the validity or enforceability of
+the remainder of the terms of this License, and without further action
+by the parties to this License, such provision shall be reformed to the
+minimum extent necessary to make such provision valid and enforceable.
+
+13. Copyleft Condition
+
+You must make the Source Code of all modifications and/or combinations
+that you create, use, or provide (directly or through others) to a third
+party, under the Work, publicly available under the terms of this
+License within thirty (30) days after the date you provide or deploy the
+modifications and/or combinations, and at no charge to all third
+parties. The Source Code must be delivered in a manner readily accessible
+to all third parties, including but not limited to, sending along a
+copy, a link, or a written indication of where the Source Code can be
+found.
+
+"Source Code" means the form of the Work preferred for making modifications,
+including but not limited to software source code, documentation source,
+configuration files, scripts, or interface definition files.
+
+END OF TERMS

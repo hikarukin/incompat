@@ -1,5 +1,5 @@
 // Copyright (c) TEST USER.
-// SPDX-License-Identifier: BUSL-1.1
+// SPDX-License-Identifier: SSPL-1.0
 
 package main
 
